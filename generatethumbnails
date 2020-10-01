@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd CindyJS
+cd CindyJS_an amazing project 
 make
 cd ../src/assets/img/thumbnail
 
